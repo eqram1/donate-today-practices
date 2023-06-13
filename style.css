@@ -1,0 +1,136 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.donate-today {
+    display: flex;
+    color: bisque;
+    padding: 200px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+    background-image: url(images/donation3.jpg);
+}
+
+.donate-btn {
+    color: white;
+    background-color: brown;
+    padding: 15px;
+    font-weight: 900;
+    border-radius: 9px;
+    font-size: large;
+}
+
+.donate-amount {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.donate-tk {
+    display: flex;
+    gap: 50px;
+    margin-left: 400px;
+}
+
+.donate-color {
+    color: red;
+}
+
+.taka-line {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.donate-items {
+    display: flex;
+    margin-top: 90px;
+    margin-left: 70px;
+    gap: 25px;
+
+}
+
+.food-items {
+    border: 5px solid whitesmoke;
+    background-color: bisque;
+}
+
+.shelter-items {
+    border: 5px solid wheat;
+    background-color: burlywood;
+}
+
+.frame-items {
+    border: 5px solid whitesmoke;
+    background-color: blanchedalmond;
+    margin-right: 70px;
+}
+
+.your-donation {
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.survive-donate {
+
+    display: flex;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 100px;
+
+
+
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 15px;
+    margin: auto;
+}
+
+
+#half-width-img {
+    width: 80%;
+
+}
+
+#half-width-image {
+    width: 30%;
+    padding: 10px 10px;
+}
+
+.my-update {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0px 0px 2px orchid;
+    margin-top: 100px;
+}
+
+.font-color {
+    color: red;
+}
+
+
+
+.footer-p {
+    background-color: black;
+    padding: 40px 30px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.footer-span {
+    color: white;
+}
